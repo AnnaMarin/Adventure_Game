@@ -46,7 +46,6 @@ def actions_fight_or_run(items):
         field(items)
 
 
-
 def intro(items):
     print_sleep("You find yourself standing in an open field,")
     print_sleep("filled with grass and yellow wildflowers.")
